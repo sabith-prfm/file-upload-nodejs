@@ -1,0 +1,9 @@
+Task progress Report
+completed:
+- Person detection from video using YOLOv3-spp pretrained model
+- Gender and Age identification using gender_net and age_net caffemodel
+- founded the Maximum number of people in a single frame( identified while detecting people from video)
+
+Remaining:
+- a) Find the number of people in the video (if the same person is in another frame, you need to ignore)
+>>Working on identification of same people
