@@ -36,11 +36,14 @@ const getListFiles = (req, res) => {
       });
     }
 
-    let fileInfos = [];
+    let fileInfos = [{
+      status:"success",
+      data:[]
+  }];
 
-    files.forEach((file) => {
-      fileInfos.push({
-        message:"all Files fetched",
+    files.forEach((file,index) => {
+      fileInfos[0].data.push({
+        fileNumber:index+1,
         data: {
           name: file,
           url: process.env.FILE_BASEURL + "/" + file,

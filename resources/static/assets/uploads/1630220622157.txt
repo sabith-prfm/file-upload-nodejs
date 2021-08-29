@@ -1,0 +1,11 @@
+http://www.kmct.edu.in/institutions/institution_detail/kmct-arts-science-college-kuttippuram
+info@kmct.edu.in
+university of calicut
+BSc computer science
+ce@uoc.ac.in
+https://www.uoc.ac.in/
+pareeksha bhavan of calicut university
+ce@uoc.ac.in
+Pareeksha bhavan
+
+"C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe"
